@@ -2,7 +2,7 @@
 
 ### example
 #### 一、可以对未来的任意时间进行人员换班
-![image](https://github.com/YuZongYangHi/oncall-table/docs/img/2756a1df-eb2b-49de-b3df-2871b46ce910.gif)   
+![image](docs/img/2756a1df-eb2b-49de-b3df-2871b46ce910.gif)   
 
 #### 二、可以创建排班时间，包括一键打乱
 ![image](https://github.com/YuZongYangHi/oncall-table/docs/img/c1e06024-7863-4e7f-99f4-64010ce0d414.gif)
