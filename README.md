@@ -5,9 +5,9 @@
 ![image](docs/img/2756a1df-eb2b-49de-b3df-2871b46ce910.gif)   
 
 #### 二、可以创建排班时间，包括一键打乱
-![image](https://github.com/YuZongYangHi/oncall-table/docs/img/c1e06024-7863-4e7f-99f4-64010ce0d414.gif)
+![image](docs/img/c1e06024-7863-4e7f-99f4-64010ce0d414.gif)
 #### 三、增删用户，新增的用户之后，可以基于排班表动态延伸
-![image](https://github.com/YuZongYangHi/oncall-table/docs/img/f12d9616-e1d1-4a03-a30d-38de255a8f05.gif)
+![image](docs/img/f12d9616-e1d1-4a03-a30d-38de255a8f05.gif)
 
 #### 能够做什么?
 - 完美的前后端分离，平台化展示值班表， 可以增删用户、抽签、换班
