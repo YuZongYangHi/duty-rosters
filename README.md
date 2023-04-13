@@ -61,7 +61,7 @@
 
 # 安装相关依赖包
 
-cd oncall_table_fe
+cd oncall_table_api
 
 pip install -r requirements.txt
 
